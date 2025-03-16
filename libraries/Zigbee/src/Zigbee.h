@@ -26,3 +26,4 @@
 #include "ep/ZigbeeRangeExtender.h"
 #include "ep/ZigbeeGateway.h"
 #include "ep/ZigbeeWindSpeedSensor.h"
+#include "ep/ZigbeeEnvSensor.h"
